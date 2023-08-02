@@ -1,0 +1,17 @@
+Link{
+    margin-right: 20px;
+}
+h1{
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.tab{
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration: underline;
+
+}

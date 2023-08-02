@@ -1,0 +1,19 @@
+.breadCrumbs{
+    display: flex;
+    text-decoration: none;
+    margin-left: 100px;
+    font-weight: 400;
+
+}
+.breadCrumbs .crumb::after{
+    content: '>';
+    margin-left: 5px;
+    font-weight: 700;
+}
+.breadCrumbs .crumb:last-child::after{
+    display: none;
+}
+.breadCrumbs .crumb a{
+    color: white;
+    text-decoration: none;
+}

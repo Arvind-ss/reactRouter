@@ -1,0 +1,38 @@
+{
+    "services":[
+        {
+            "id":1,
+            "title":"Senior React Dev",
+            "location":"Chennai,IND",
+            "details":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has"
+        },
+        {
+            "id":2,
+            "title":"Junior React Dev",
+            "location":"Bangalore,IND",
+            "details":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has"
+
+        },
+        {
+            "id":3,
+            "title":"Dev ops",
+            "location":"Hydrabad,IND",
+            "details":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has"
+
+        },
+        {
+            "id":4,
+            "title":"Automation Tester",
+            "location":"Madurai,IND",
+            "details":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has"
+
+        },
+        {
+            "id":"5",
+            "title":"Web Designer",
+            "location":"Chennai,IND",
+            "details":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has"
+
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+.parent{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.link {
+color: #FAB516;
+text-decoration: none;
+font-weight: bold;}

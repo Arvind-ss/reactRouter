@@ -1,0 +1,14 @@
+.servicesTitle{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border: none;
+    border-radius: 10px;
+    background-color: #471d8e;
+    margin-bottom: 10px;
+    text-decoration: none;
+    
+}
+.servicesTitle > *{
+    color: #FAB516;
+}
